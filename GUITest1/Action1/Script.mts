@@ -1,1 +1,2 @@
-﻿msgbox "hello"
+﻿msgbox "hi"
+msgbox "hello"
