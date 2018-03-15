@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\GIT\\Integration Test\\Orange_LoginCreateLogout',namePairs:[]}]};
